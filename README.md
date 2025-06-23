@@ -7,7 +7,7 @@ Welcome to **Blossom & Bloom**, a beautifully crafted landing page for a fiction
 
 ## Live Demo
 
-🔗 [View Live Site](https://vedasai-rishi.github.io/Flower-shop-landing-page/)  
+🔗 [https://vedasai-rishi.github.io/Flower-shop-landing-page/](https://vedasai-rishi.github.io/OIBSIP-LandingPage/))  
 _(Hosted via GitHub Pages)_
 
 ---
